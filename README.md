@@ -53,7 +53,7 @@ This project is built for:
 
 ```bash
 # Clone repository
-git clone https://github.com/<your-username>/the-intelligence-vault.git
+git clone https://github.com/DeCyberGuardian/vault_check.git
 cd the-intelligence-vault
 
 # Create virtual environment
